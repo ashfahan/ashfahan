@@ -1,6 +1,6 @@
-Hi there, It's me Ashfahan
+# Hi there, It's me Ashfahan 👨‍💻
 
-# About
+## About 🙆‍♂️
 
 I am a passionate self-taught and quality-oriented ReactJS/Angular Front End Programmer, Qualified and Productive in Problem Solving, Fast learner and a team player.
 
@@ -10,7 +10,7 @@ I had the privilege of working with number of software agencies, where I learned
 
 Experienced Developer with a demonstrated history of working in the information technology industry.
 
-# Find me
+## For More find me 📮
 
 <p align="center">
   <span>Write to me at <a href="mailto:me@ashfahan.com">me@ashfahan.com</a> | Check out my website at <a href="https://ashfahan.com">🌐 Ashfahan.com 🙋‍♂️</a></span>
