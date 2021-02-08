@@ -1,6 +1,8 @@
+Hi there, It's me Ashfahan
+
 # About
 
-I am a quality-oriented ReactJS/Angular Front End Programmer, Qualified and Productive in Problem Solving, Fast learner and a team player.
+I am a passionate self-taught and quality-oriented ReactJS/Angular Front End Programmer, Qualified and Productive in Problem Solving, Fast learner and a team player.
 
 I'm a hard-working and ambitious individual. I have the ability to adopt myself to new situation and comfortable at working in group. I am good at accomplishing task on time and want to earn respect and trust for myself and the company where i serve.
 
