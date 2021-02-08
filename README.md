@@ -15,8 +15,8 @@ Experienced Developer with a demonstrated history of working in the information 
 <p align="center">
   <span>Write to me at <a href="mailto:me@ashfahan.com">me@ashfahan.com</a> | Check out my website at <a href="https://ashfahan.com">🌐 Ashfahan.com 🙋‍♂️</a></span>
   <br>
-  <a href="https://GitHub.com/in/ashfahan"><img src="https://img.shields.io/badge/GitHub-Ashfahan-805ad5.svg?style=for-the-badge&logo=GitHub" alt="GitHub"></a>
-  <a href="https://Skype.com/in/ashfahan"><img src="https://img.shields.io/badge/Skype-Ashfahan-805ad5.svg?style=for-the-badge&logo=Skype" alt="Skype"></a>
+  <a href="https://GitHub.com/ashfahan"><img src="https://img.shields.io/badge/GitHub-Ashfahan-805ad5.svg?style=for-the-badge&logo=GitHub" alt="GitHub"></a>
+  <a href="https://join.skype.com/invite/iS1oy3l9kTMM"><img src="https://img.shields.io/badge/Skype-Ashfahan-805ad5.svg?style=for-the-badge&logo=Skype" alt="Skype"></a>
   <a href="https://Linkedin.com/in/ashfahan"><img src="https://img.shields.io/badge/Linkedin-Ashfahan-805ad5.svg?style=for-the-badge&logo=Linkedin" alt="Linkedin"></a>
   <a href="https://Behance.net/ashfahan"><img src="https://img.shields.io/badge/Behance-Ashfahan-805ad5.svg?style=for-the-badge&logo=Behance" alt="Behance"></a>
 </p>
