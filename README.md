@@ -10,7 +10,7 @@ I had the privilege of working with number of software agencies, where I learned
 
 Experienced Developer with a demonstrated history of working in the information technology industry.
 
-## For More find me 📮
+## For More Find Me 📮
 
 <p align="center">
   <span>Write to me at <a href="mailto:me@ashfahan.com">me@ashfahan.com</a> | Check out my website at <a href="https://ashfahan.com">🌐 Ashfahan.com 🙋‍♂️</a></span>
