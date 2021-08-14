@@ -2,11 +2,13 @@
 
 ## About 🙆‍♂️
 
-I am a passionate self-taught and quality-oriented ReactJS/Angular Front End Programmer, Qualified and Productive in Problem Solving, Fast learner and a team player.
+I am a passionate self-taught and quality-oriented ReactJS + Typescript Front-End Developer, Qualified and Productive in Problem Solving, Fast learner and a team player.
 
-I'm a hard-working and ambitious individual. I have the ability to adopt myself to new situation and comfortable at working in group. I am good at accomplishing task on time and want to earn respect and trust for myself and the company where i serve.
+I'm a hard-working, ambitious and result oriented individual. I have the ability to adopt myself to new situation and comfortable at working in group. I am good with multi-tasking and meeting short deadline even on fast pace projects.
 
-I had the privilege of working with number of software agencies, where I learned valuable professional skills such as programming, website architecture, database design and exposure of new tools and languages. In both my academic and professional life, I have been consistently praised as adaptable by my professors and peers. Whether working on academic, extracurricular, or professional projects, I apply proven teamwork, management, and problem-solving skills.
+I had the privilege of working with number of software agencies, where I learned valuable professional skills such as programming, website architecture, database design and exposure of new tools and languages.
+
+In both my academic and professional life, I have been consistently praised as adaptable by my professors and peers. Whether working on academic, extracurricular, or professional projects, I apply proven teamwork, management, and problem-solving skills.
 
 Experienced Developer with a demonstrated history of working in the information technology industry.
 
@@ -14,6 +16,7 @@ Experienced Developer with a demonstrated history of working in the information 
 
 <p align="center">
   <span>Write to me at <a href="mailto:me@ashfahan.com">me@ashfahan.com</a> | Check out my website at <a href="https://ashfahan.com">🌐 Ashfahan.com 🙋‍♂️</a></span>
+  <br>
   <br>
   <a href="https://GitHub.com/ashfahan"><img src="https://img.shields.io/badge/GitHub-Ashfahan-805ad5.svg?style=for-the-badge&logo=GitHub" alt="GitHub"></a>
   <a href="https://join.skype.com/invite/iS1oy3l9kTMM"><img src="https://img.shields.io/badge/Skype-Ashfahan-805ad5.svg?style=for-the-badge&logo=Skype" alt="Skype"></a>
