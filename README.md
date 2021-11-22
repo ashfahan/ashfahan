@@ -12,6 +12,17 @@ In both my academic and professional life, I have been consistently praised as a
 
 Experienced Developer with a demonstrated history of working in the information technology industry.
 
+## My Technology Stack
+
+<p align="left">
+  <img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_reactjs.svg">
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_typescript_official.svg">
+  <img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_angular.svg">
+  <img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_scss2.svg">
+  <img height="20" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_css.svg">
+</p>
+
 ## For More Find Me 📮
 
 <p align="center">
